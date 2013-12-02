@@ -22,18 +22,6 @@
         <outputText>locator/AddressLocator/designator/LocatorDesignator/designator</outputText>
         <displayInfo headChar="Nº" >locator/AddressLocator/designator/LocatorDesignator/designator</displayInfo>
     </results>
-    <details>
-        <detailslevel>
-            <label>Número</label>
-            <path>locator/AddressLocator/designator/LocatorDesignator/designator</path>
-        </detailslevel>
-        <detailslevel>
-            <label>Coordenadas</label>
-            <path>position/GeographicPosition/geometry/Point/pos</path>
-        </detailslevel>
-        <detailslevel>
-            <label>SRS</label>
-            <path attribute="srsName">position/GeographicPosition/geometry/Point</path>
-        </detailslevel>
+    <details auto="true">
     </details>
 </serviceConfig>
