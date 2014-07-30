@@ -11,8 +11,8 @@
         <extraParam name="nameOfTheAdminUnitName">{{adminUnit}}</extraParam>
         <extraParam name="nameOfTheThoroughfareName">{{thoroughfareName}}</extraParam>
         <search>
-            <option id="adminUnit" label="Unidad administrativa">-</option>
-            <option id="thoroughfareName" label="Nombre de vía">-</option>
+            <option id="adminUnit" label="Administrative Unit">-</option>
+            <option id="thoroughfareName" label="Street name">-</option>
         </search>
     </request>
     <results>
